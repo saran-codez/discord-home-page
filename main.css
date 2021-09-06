@@ -352,6 +352,10 @@ img {
 	color: inherit;
 }
 
+.footer-link:hover {
+	text-decoration: underline;
+}
+
 .divider {
 	grid-column: 1/-1;
 	height: 1px;
